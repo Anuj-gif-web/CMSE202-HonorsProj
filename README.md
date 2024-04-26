@@ -24,3 +24,7 @@ The models were assessed using metrics such as accuracy, precision, recall, F1-s
 
 Conclusion-
 The Loan Status Prediction project highlights the important role of predictive modeling in enhancing the efficiency and fairness of loan approval processes. Through the application of  statistical methods and machine learning algorithms, financial institutions can improve their decision-making capabilities, benefiting both the lenders and borrowers in the long run.
+
+
+Video Presentation-
+https://michiganstate-my.sharepoint.com/:v:/g/personal/jadhavan_msu_edu/ES9uPMib8_BPgfU1671zysgBQzpVPZEyMMt4BthCcilnVA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=38spl9
